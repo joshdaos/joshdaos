@@ -6,7 +6,7 @@ With a strong background in delivering exceptional results in sales and providin
 - JavaScript, Python, Node.js, React.js, Express, Django, MERN, PostgreSQL, MongoDB, Mongoose, Flask, Typescript, Git(Version Control), Github, Agile/Scrum, APIs, HTML, CSS, jQuery, various Frameworks & Libraries.
 
 ## Contact Me!
-- If you’d like to learn more or would like to chat, feel free to contact me at any of my ![Links](https://linktr.ee/joshdaos)
+- If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://linktr.ee/joshdaos)
 
 ## Resume:
-Click ![Here](https://docs.google.com/document/d/1Nmt1mZFPnXoFK5SPjsISzdVtz3ulX2QXdin0qZGeiNs/edit?usp=sharing) to view my resume!
+Click [Here](https://docs.google.com/document/d/1Nmt1mZFPnXoFK5SPjsISzdVtz3ulX2QXdin0qZGeiNs/edit?usp=sharing) to view my resume!
