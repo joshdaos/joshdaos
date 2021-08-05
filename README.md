@@ -9,4 +9,4 @@ With a strong background in delivering exceptional results in sales and providin
 - If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://linktr.ee/joshdaos)
 
 ## Resume:
-- Click [Here](https://docs.google.com/document/d/1Nmt1mZFPnXoFK5SPjsISzdVtz3ulX2QXdin0qZGeiNs/edit?usp=sharing) to view my resume!
+- Click [Here](https://docs.google.com/document/d/1WslxDWmG2QDInLGj9OIbBi9Sp01oOiy9S-XhOQ9n1XY/edit?usp=sharing) to view my resume!
