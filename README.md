@@ -7,7 +7,7 @@ With a strong background in delivering exceptional results in sales and providin
 - JavaScript | Python | Node.js | React.js | Express | Django | MERN | PostgreSQL | MongoDB | Mongoose | HTML | CSS | jQuery | Git(Version Control) | Github | Agile/Scrum | Heroku(Deployment) | Notion(Project-Management)
 
 ## Contact Me!
-- If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://linktr.ee/joshdaos)
+- If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://joshdaos.github.io/jd-linkhub/)
 
 ## Resume:
 - Click [Here](https://docs.google.com/document/d/1WslxDWmG2QDInLGj9OIbBi9Sp01oOiy9S-XhOQ9n1XY/edit?usp=sharing) to view my resume!
