@@ -1,3 +1,8 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshdaos&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdaos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![](https://komarev.com/ghpvc/?username=joshdaos)
+
 # Bio:
 
 Driven by my curiosity in tech & possessing a passion for solving complex problems, I am a Software Engineer who enjoys transforming applications from logic to production.
