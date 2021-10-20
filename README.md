@@ -12,4 +12,4 @@
 - Click [Here](https://docs.google.com/document/d/1WslxDWmG2QDInLGj9OIbBi9Sp01oOiy9S-XhOQ9n1XY/edit?usp=sharing) to view my resume!
   
 ### Portfolio:
-- Check out my [Portfolio](https://joshdaos-portfolio.vercel.app/)
+- Check out my [Portfolio!](https://joshdaos-portfolio.vercel.app/)
