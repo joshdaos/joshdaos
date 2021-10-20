@@ -3,7 +3,7 @@
 <br />
 
 ### Languages & Methodologies:
-- JavaScript | Python | Node.js | React.js | Express | Django | MERN | PostgreSQL | MongoDB | Mongoose | HTML | CSS | jQuery | Git(Version Control) | Github | Agile/Scrum | Heroku(Deployment) | Notion(Project-Management) | Postman
+- JavaScript | Python | Node.js | React.js | Next.js | Express | Django | MERN | PostgreSQL | MongoDB | Mongoose | HTML | CSS | jQuery | Git(Version Control) | Github | Agile/Scrum | Heroku(Deployment) | Notion(Project-Management) | Postman
 
 ### Contact Me!
 - If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://joshdaos.github.io/jd-linkhub/)
