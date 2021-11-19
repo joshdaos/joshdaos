@@ -9,8 +9,8 @@
 - If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://joshdaos.github.io/jd-linkhub/)
 
 ## Resume:
-- Click [Here](https://docs.google.com/document/d/1WslxDWmG2QDInLGj9OIbBi9Sp01oOiy9S-XhOQ9n1XY/edit?usp=sharing) to view my resume!
+- Click [Here](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing) to view my resume!
   
-<!-- ## Portfolio:
+## Portfolio:
 - Check out my [Portfolio!](https://joshdaos-portfolio.vercel.app/)
- -->
+
