@@ -12,5 +12,5 @@
 - Click [Here](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing) to view my resume!
   
 ## Portfolio:
-- Check out my [Portfolio!](https://joshdaos-portfolio.vercel.app/)
+- Check out my [Portfolio!](https://jd-portfolio.vercel.app/)
 
