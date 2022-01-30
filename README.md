@@ -15,12 +15,12 @@
 - Check out my [Portfolio!](https://jd-portfolio.vercel.app/) -->
 
 <table>
-  <thead>
+  <tbody>
     <tr>
-      <th><a href="https://joshdaos.github.io/jd-linkhub/"> My Links!<a/></th>
-      <th><a href="https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing">Resume</a></th>
-      <th><a href="https://jd-portfolio.vercel.app/">Portfolio</a></th>
+      <td><a href="https://joshdaos.github.io/jd-linkhub/"> My Links!<a/></td>
+      <td><a href="https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing">Resume</a></td>
+      <td><a href="https://jd-portfolio.vercel.app/">Portfolio</a></td>
       <tr>
-   </thead>
+   </tbody>
 </table>
 
