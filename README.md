@@ -17,7 +17,7 @@
 <table>
   <thead>
     <tr>
-      <th>[Contact Me!](https://joshdaos.github.io/jd-linkhub/)</th>
+      <th><a href="https://joshdaos.github.io/jd-linkhub/"> My Links!<a/></th>
       <th>[Resume](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing)</th>
       <th>[Portfolio!](https://jd-portfolio.vercel.app/)</th>
       <tr>
