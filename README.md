@@ -14,8 +14,13 @@
 ## Portfolio:
 - Check out my [Portfolio!](https://jd-portfolio.vercel.app/) -->
 
-- [Contact Me!](https://joshdaos.github.io/jd-linkhub/)
-- [Resume](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing)
-- [Portfolio!](https://jd-portfolio.vercel.app/)
-
+<table>
+  <thead>
+    <tr>
+      <th>[Contact Me!](https://joshdaos.github.io/jd-linkhub/)</th>
+      <th>[Resume](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing)</th>
+      <th>[Portfolio!](https://jd-portfolio.vercel.app/)</th>
+      <tr>
+   </thead>
+</table>
 
