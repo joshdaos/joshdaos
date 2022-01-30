@@ -4,7 +4,7 @@
 
 <!-- ## Languages & Methodologies:
 - JavaScript | Python | Node.js | React.js | Next.js | Express | Django | MERN | PostgreSQL | MongoDB | Mongoose | HTML | CSS | jQuery | Git(Version Control) | Github | Agile/Scrum | Heroku(Deployment) | Notion(Project-Management) | Postman
- -->
+
 ## Contact Me!
 - If you’d like to learn more or would like to chat, feel free to contact me at any of my [Links](https://joshdaos.github.io/jd-linkhub/)
 
@@ -12,5 +12,10 @@
 - Click [Here](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing) to view my resume!
   
 ## Portfolio:
-- Check out my [Portfolio!](https://jd-portfolio.vercel.app/)
+- Check out my [Portfolio!](https://jd-portfolio.vercel.app/) -->
+
+- [Contact Me!](https://joshdaos.github.io/jd-linkhub/)
+- [Resume](https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing)
+- [Portfolio!](https://jd-portfolio.vercel.app/)
+
 
