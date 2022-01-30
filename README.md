@@ -17,7 +17,7 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://joshdaos.github.io/jd-linkhub/"> My Links!<a/></td>
+      <td><a href="https://joshdaos.github.io/jd-linkhub/">Socials<a/></td>
       <td><a href="https://docs.google.com/document/d/15P2WuFGv7EkW9K1cVNyjLTOq13xXvo7KWgysGgioQuY/edit?usp=sharing">Resume</a></td>
       <td><a href="https://jd-portfolio.vercel.app/">Portfolio</a></td>
       <tr>
