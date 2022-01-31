@@ -1,6 +1,8 @@
 <!-- <h1 align="center"></h1> -->
 <!-- <h3 align="center">I am a Software Engineer who specializes in JavaScript and React.js. Feel free to come chat and learn with me anytime! </h3> -->
 
+<a href="https://github-readme-stats.vercel.app/api?username=joshdaos&count_private=true&show_icons=true&theme=cobalt"><a/>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshdaos&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdaos&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
