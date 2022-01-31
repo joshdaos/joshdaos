@@ -1,4 +1,4 @@
-# Hi all! I'm Josh
+# Welcome to my Github!
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshdaos&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdaos&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
