@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Josh!</h1>
+<h1 align="center">Welcome 👋🏼</h1>
 <!-- <h3 align="center">I am a Software Engineer who specializes in JavaScript and React.js. Feel free to come chat and learn with me anytime! </h3> -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshdaos&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
