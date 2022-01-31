@@ -1,5 +1,5 @@
 
-<table align="center">
+<table>
   <tbody>
     <tr>
       <td><a href="https://joshdaos.github.io/jd-linkhub/">Socials<a/></td>
