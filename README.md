@@ -1,4 +1,4 @@
-# Let's Connect!
+
 <table>
   <tbody>
     <tr>
@@ -9,11 +9,11 @@
    </tbody>
 </table>
 
-# GitHub Stats
+## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshdaos&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdaos&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-# Technologies:
+## Technologies:
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
